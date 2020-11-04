@@ -1,0 +1,59 @@
+#pro{
+  font-size: 5rem;
+  letter-spacing: 1rem;
+  font-family: 'Segoe UI', Tahoma;
+  margin-left: 25%;
+}
+
+.card{
+  margin-top: 6%;
+  /* display: inline; */
+  display: inline-block;
+  box-shadow:2px 2px rgb(235, 228, 228);
+
+}
+.card:hover{
+  border: 2px solid orangered;
+}
+.card-title{
+  font-size: 2rem;
+}
+.card-text{
+  font-size: 1.5rem;
+}
+
+#view{
+  /* border: 1px solid #30dcfa; */
+  border: none;
+  color: blue;
+  background-color: white;
+  font-size: 1.5rem;
+  margin-left: 3%;
+  margin-right: 3%;
+  /* background-image: linear-gradient(180deg,rgb(72, 34, 211),#66ee5a); */
+}
+
+#git{
+  /* border: 1px solid #30dcfa; */
+  font-size: 1.5rem;
+  /* color: #30dcfa; */
+  background-color: white;
+  border: none;
+  color: blue;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+#view:hover{
+  border: 1px solid #30dcfa;
+  color: #30dcfa;
+}
+#git:hover{
+  border: 1px solid #30dcfa;
+  color: #30dcfa;
+}
+
+.card-text{
+  color: grey;
+}
+

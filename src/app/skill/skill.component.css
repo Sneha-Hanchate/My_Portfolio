@@ -1,0 +1,16 @@
+.card-title{
+  font-size: 1.5rem;
+}
+
+#skill{
+  font-size: 5rem;
+  margin-left: 43%;
+  margin-bottom: 3%;
+}
+
+.card{
+  box-shadow: 2px 2px rgb(223, 216, 216);
+  margin-top: 12%;
+  border-radius: 10%;
+  display: block;
+}

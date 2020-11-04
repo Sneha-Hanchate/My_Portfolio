@@ -1,0 +1,39 @@
+.card-title{
+  font-size: 2rem;
+}
+.card-test{
+  font-size: 0.7rem;
+}
+
+#about{
+  font-size: 5rem;
+  color: #2e2f58;
+  margin-bottom: 7%;
+}
+.about-txt{
+  font-size: 1.9rem;
+}
+#resume{
+  background-image: linear-gradient(180deg,#08f198,#30dcfa);
+  border: none;
+  color: black;
+  font-family: roboto;
+  padding: 1%;
+  font-size: 2rem;
+  margin: 2%;
+  /* border-radius: 50%; */
+  border-end-start-radius: 10%;
+  padding: 2%;
+  margin-top: 3%;
+}
+#resume:hover{
+  /* border-end-start-radius: 10%; */
+  border: 1px solid #30dcfa;
+  color: #30dcfa;
+  background-image: linear-gradient(180deg,white,white);
+}
+
+.card{
+  margin-top: 10%;
+  border-radius: 10%;
+}

@@ -1,0 +1,34 @@
+.navbar{
+  background-color: #F8BBD0;
+}
+
+a{
+  font-size: 2rem;
+  /* color: red; */
+
+}
+.navbar-brand{
+  font-size: 2rem;
+  /* padding-top: 1%; */
+  max-height: 4rem;
+}
+li{
+  margin-left: 8%;
+  margin-right: 8%;
+}
+.navbar-nav{
+  text-align: center;
+  margin-left: 30%;
+}
+.navbar-brand{
+  margin-bottom: 1%;
+  margin-top: 1%;
+  background-color: #81ecec;
+  text-align: center;
+  color: white;
+}
+.nav-link{
+  color: #a2a5e1;
+  font-weight: bold;
+}
+

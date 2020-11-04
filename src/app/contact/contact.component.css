@@ -1,0 +1,26 @@
+#c1{
+  font-size: 5rem;
+  color:  #2e2f58;
+}
+#c2{
+  font-size: 3rem;
+  color:black;
+}
+#c3{
+  font-size: 3.2rem;
+  color:#f56b6b;
+}
+
+#b1,#b2,#b3{
+  font-family: roboto;
+  padding: 1%;
+  font-size: 2rem;
+  margin: 1%;
+  /* border-radius: 50%; */
+  border-end-start-radius: 10%;
+  border: 2px solid #a2a5e1;
+  color: blue;
+  background-color: white;
+  width:30rem;
+
+}
